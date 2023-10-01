@@ -2,6 +2,9 @@
 
 Welcome to the Number Guessing Game! This simple web-based game allows players to guess a random number between 1 and 100. Test your guessing skills and see if you can guess the correct number within a limited number of chances.
 
+![image](https://github.com/YawBoah/Number-Guessing-Game/assets/126890146/f3aadbc0-3a97-4336-a844-d96eb4e29872)
+
+
 ## How to Play
 
 1. Open the game in your web browser.
